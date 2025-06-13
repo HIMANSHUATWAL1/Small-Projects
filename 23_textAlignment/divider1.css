@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.divider{
+
+    height: 400px scroll;
+    width: 500px;
+    border: 1px solid rgb(81, 81, 169,0.5);
+    border-radius: 8px;
+    background: linear-gradient(to right, rgba(128, 177, 251, 0.5), rgba(39, 159, 244, 0.5));
+
+}
+
+.para{
+    font-size: medium;
+    padding: 20px ;
+    text-align: justify;
+    
+}
+
+hr{
+    width: 90%;
+    opacity: 0.5;
+}
+
+
+
+.h-text{
+    color: black;
+    font-weight: bold;
+}
+.h-line{
+    width:100%;
+    opacity: 0.5;
+}
